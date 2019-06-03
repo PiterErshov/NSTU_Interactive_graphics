@@ -1,0 +1,2 @@
+﻿  cl: командная строка error D8016: несовместимые параметры командной строки "/ZI" и "/GL"
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Enterprise\MSBuild\Microsoft\VC\v160\Microsoft.CppCommon.targets(429,5): error MSB6006: "CL.exe" завершилась с кодом 2.

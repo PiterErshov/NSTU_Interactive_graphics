@@ -1,0 +1,78 @@
+﻿  camera.cpp
+  gauss.cpp
+  helpTracer.cpp
+  main.cpp
+  scene.cpp
+D:\NSTU\Компьютерная графика\lab4\CG_LR4\CG_LR4\main.cpp(64,20): warning C4018:  <: несоответствие типов со знаком и без знака
+D:\NSTU\Компьютерная графика\lab4\CG_LR4\CG_LR4\scene.cpp(683,20): warning C4018:  <: несоответствие типов со знаком и без знака
+D:\NSTU\Компьютерная графика\lab4\CG_LR4\CG_LR4\scene.cpp(723,20): warning C4018:  <: несоответствие типов со знаком и без знака
+D:\NSTU\Компьютерная графика\lab4\CG_LR4\CG_LR4\scene.cpp(685,1): warning C4996:  'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.17763.0\ucrt\stdio.h(208): message :   см. объявление "fopen"
+D:\NSTU\Компьютерная графика\lab4\CG_LR4\CG_LR4\scene.cpp(688,1): warning C4996:  'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.17763.0\ucrt\stdio.h(1197): message :   см. объявление "fscanf"
+D:\NSTU\Компьютерная графика\lab4\CG_LR4\CG_LR4\scene.cpp(692,1): warning C4996:  'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.17763.0\ucrt\stdio.h(1197): message :   см. объявление "fscanf"
+D:\NSTU\Компьютерная графика\lab4\CG_LR4\CG_LR4\scene.cpp(694,1): warning C4996:  'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.17763.0\ucrt\stdio.h(1197): message :   см. объявление "fscanf"
+D:\NSTU\Компьютерная графика\lab4\CG_LR4\CG_LR4\scene.cpp(698,1): warning C4996:  'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.17763.0\ucrt\stdio.h(1197): message :   см. объявление "fscanf"
+D:\NSTU\Компьютерная графика\lab4\CG_LR4\CG_LR4\scene.cpp(700,1): warning C4996:  'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.17763.0\ucrt\stdio.h(1197): message :   см. объявление "fscanf"
+D:\NSTU\Компьютерная графика\lab4\CG_LR4\CG_LR4\scene.cpp(704,1): warning C4996:  'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.17763.0\ucrt\stdio.h(1197): message :   см. объявление "fscanf"
+D:\NSTU\Компьютерная графика\lab4\CG_LR4\CG_LR4\scene.cpp(712,1): warning C4996:  'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.17763.0\ucrt\stdio.h(1197): message :   см. объявление "fscanf"
+D:\NSTU\Компьютерная графика\lab4\CG_LR4\CG_LR4\scene.cpp(715,1): warning C4996:  'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.17763.0\ucrt\stdio.h(1197): message :   см. объявление "fscanf"
+D:\NSTU\Компьютерная графика\lab4\CG_LR4\CG_LR4\scene.cpp(725,1): warning C4996:  'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.17763.0\ucrt\stdio.h(208): message :   см. объявление "fopen"
+D:\NSTU\Компьютерная графика\lab4\CG_LR4\CG_LR4\scene.cpp(728,1): warning C4996:  'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.17763.0\ucrt\stdio.h(1197): message :   см. объявление "fscanf"
+D:\NSTU\Компьютерная графика\lab4\CG_LR4\CG_LR4\scene.cpp(732,1): warning C4996:  'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.17763.0\ucrt\stdio.h(1197): message :   см. объявление "fscanf"
+D:\NSTU\Компьютерная графика\lab4\CG_LR4\CG_LR4\scene.cpp(734,1): warning C4996:  'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.17763.0\ucrt\stdio.h(1197): message :   см. объявление "fscanf"
+D:\NSTU\Компьютерная графика\lab4\CG_LR4\CG_LR4\scene.cpp(738,1): warning C4996:  'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.17763.0\ucrt\stdio.h(1197): message :   см. объявление "fscanf"
+D:\NSTU\Компьютерная графика\lab4\CG_LR4\CG_LR4\scene.cpp(740,1): warning C4996:  'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.17763.0\ucrt\stdio.h(1197): message :   см. объявление "fscanf"
+D:\NSTU\Компьютерная графика\lab4\CG_LR4\CG_LR4\scene.cpp(744,1): warning C4996:  'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.17763.0\ucrt\stdio.h(1197): message :   см. объявление "fscanf"
+D:\NSTU\Компьютерная графика\lab4\CG_LR4\CG_LR4\scene.cpp(752,1): warning C4996:  'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.17763.0\ucrt\stdio.h(1197): message :   см. объявление "fscanf"
+D:\NSTU\Компьютерная графика\lab4\CG_LR4\CG_LR4\scene.cpp(755,1): warning C4996:  'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.17763.0\ucrt\stdio.h(1197): message :   см. объявление "fscanf"
+D:\NSTU\Компьютерная графика\lab4\CG_LR4\CG_LR4\scene.cpp(769,1): warning C4996:  'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.17763.0\ucrt\stdio.h(208): message :   см. объявление "fopen"
+D:\NSTU\Компьютерная графика\lab4\CG_LR4\CG_LR4\scene.cpp(773,1): warning C4996:  'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.17763.0\ucrt\stdio.h(1197): message :   см. объявление "fscanf"
+D:\NSTU\Компьютерная графика\lab4\CG_LR4\CG_LR4\scene.cpp(783,1): warning C4996:  'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.17763.0\ucrt\stdio.h(1197): message :   см. объявление "fscanf"
+D:\NSTU\Компьютерная графика\lab4\CG_LR4\CG_LR4\scene.cpp(784,1): warning C4996:  'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.17763.0\ucrt\stdio.h(1197): message :   см. объявление "fscanf"
+D:\NSTU\Компьютерная графика\lab4\CG_LR4\CG_LR4\scene.cpp(785,1): warning C4996:  'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.17763.0\ucrt\stdio.h(1197): message :   см. объявление "fscanf"
+D:\NSTU\Компьютерная графика\lab4\CG_LR4\CG_LR4\scene.cpp(800,1): warning C4996:  'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.17763.0\ucrt\stdio.h(1197): message :   см. объявление "fscanf"
+D:\NSTU\Компьютерная графика\lab4\CG_LR4\CG_LR4\scene.cpp(801,1): warning C4996:  'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.17763.0\ucrt\stdio.h(1197): message :   см. объявление "fscanf"
+D:\NSTU\Компьютерная графика\lab4\CG_LR4\CG_LR4\scene.cpp(802,1): warning C4996:  'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.17763.0\ucrt\stdio.h(1197): message :   см. объявление "fscanf"
+D:\NSTU\Компьютерная графика\lab4\CG_LR4\CG_LR4\scene.cpp(764,13): warning C4101:  in_mat: неиспользованная локальная переменная
+D:\NSTU\Компьютерная графика\lab4\CG_LR4\CG_LR4\scene.cpp(858,16): warning C4018:  <: несоответствие типов со знаком и без знака
+D:\NSTU\Компьютерная графика\lab4\CG_LR4\CG_LR4\scene.cpp(867,16): warning C4018:  <: несоответствие типов со знаком и без знака
+D:\NSTU\Компьютерная графика\lab4\CG_LR4\CG_LR4\scene.cpp(880,16): warning C4018:  <: несоответствие типов со знаком и без знака
+  tracer.cpp
+D:\NSTU\Компьютерная графика\lab4\CG_LR4\CG_LR4\scene.cpp(884,16): warning C4018:  <: несоответствие типов со знаком и без знака
+D:\NSTU\Компьютерная графика\lab4\CG_LR4\CG_LR4\tracer.cpp(27,20): warning C4018:  <: несоответствие типов со знаком и без знака
+D:\NSTU\Компьютерная графика\lab4\CG_LR4\CG_LR4\tracer.cpp(100,19): warning C4018:  <: несоответствие типов со знаком и без знака
+D:\NSTU\Компьютерная графика\lab4\CG_LR4\CG_LR4\tracer.cpp(121,19): warning C4018:  <: несоответствие типов со знаком и без знака
+D:\NSTU\Компьютерная графика\lab4\CG_LR4\CG_LR4\tracer.cpp(199,20): warning C4018:  <: несоответствие типов со знаком и без знака
+D:\NSTU\Компьютерная графика\lab4\CG_LR4\CG_LR4\tracer.cpp(276,20): warning C4018:  <: несоответствие типов со знаком и без знака
+D:\NSTU\Компьютерная графика\lab4\CG_LR4\CG_LR4\tracer.cpp(353,20): warning C4018:  <: несоответствие типов со знаком и без знака
+  Создание кода
+  0 of 396 functions ( 0.0%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    0 functions had inline decision re-evaluated but remain unchanged
+  Создание кода завершено
+  CG_LR4.vcxproj -> D:\NSTU\Компьютерная графика\lab4\CG_LR4\Release\CG_LR4.exe
