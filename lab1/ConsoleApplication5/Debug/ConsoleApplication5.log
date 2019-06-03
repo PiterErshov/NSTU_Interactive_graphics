@@ -1,0 +1,22 @@
+﻿  pch.cpp
+d:\nstu\компьютерная графика\lab1\consoleapplication5\consoleapplication5\pch.cpp(11): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17134.0\ucrt\stdio.h(1774): note:  см. объявление "sprintf"
+d:\nstu\компьютерная графика\lab1\consoleapplication5\consoleapplication5\pch.cpp(23): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17134.0\ucrt\stdio.h(1774): note:  см. объявление "sprintf"
+d:\nstu\компьютерная графика\lab1\consoleapplication5\consoleapplication5\pch.cpp(38): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17134.0\ucrt\stdio.h(1774): note:  см. объявление "sprintf"
+d:\nstu\компьютерная графика\lab1\consoleapplication5\consoleapplication5\pch.cpp(89): warning C4018: <: несоответствие типов со знаком и без знака
+d:\nstu\компьютерная графика\lab1\consoleapplication5\consoleapplication5\pch.cpp(101): warning C4018: <: несоответствие типов со знаком и без знака
+d:\nstu\компьютерная графика\lab1\consoleapplication5\consoleapplication5\pch.cpp(124): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17134.0\ucrt\stdio.h(1774): note:  см. объявление "sprintf"
+d:\nstu\компьютерная графика\lab1\consoleapplication5\consoleapplication5\pch.cpp(649): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17134.0\ucrt\stdio.h(1774): note:  см. объявление "sprintf"
+d:\nstu\компьютерная графика\lab1\consoleapplication5\consoleapplication5\pch.cpp(671): warning C4018: <: несоответствие типов со знаком и без знака
+d:\nstu\компьютерная графика\lab1\consoleapplication5\consoleapplication5\pch.cpp(684): warning C4018: <: несоответствие типов со знаком и без знака
+d:\nstu\компьютерная графика\lab1\consoleapplication5\consoleapplication5\pch.cpp(704): warning C4018: <: несоответствие типов со знаком и без знака
+d:\nstu\компьютерная графика\lab1\consoleapplication5\consoleapplication5\pch.cpp(833): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17134.0\ucrt\stdio.h(1774): note:  см. объявление "sprintf"
+  Main.cpp
+d:\nstu\компьютерная графика\lab1\consoleapplication5\consoleapplication5\main.cpp(6): warning C4326: возвращаемый тип "main" должен быть "int", а не "void"
+  LINK : не найден или не выполнена сборка D:\NSTU\Компьютерная графика\lab1\ConsoleApplication5\Debug\ConsoleApplication5.exe при последней инкрементной компоновке; выполняется полная компоновка
+  ConsoleApplication5.vcxproj -> D:\NSTU\Компьютерная графика\lab1\ConsoleApplication5\Debug\ConsoleApplication5.exe
