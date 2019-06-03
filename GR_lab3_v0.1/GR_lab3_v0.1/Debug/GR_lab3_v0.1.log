@@ -1,0 +1,66 @@
+﻿  main.cpp
+d:\nstu\компьютерная графика\lab3\gr_lab3_v0.1\gr_lab3_v0.1\sours.h(62): warning C4244: =: преобразование "double" в "float", возможна потеря данных
+d:\nstu\компьютерная графика\lab3\gr_lab3_v0.1\gr_lab3_v0.1\sours.h(199): warning C4018: <: несоответствие типов со знаком и без знака
+d:\nstu\компьютерная графика\lab3\gr_lab3_v0.1\gr_lab3_v0.1\sours.h(205): warning C4018: <: несоответствие типов со знаком и без знака
+d:\nstu\компьютерная графика\lab3\gr_lab3_v0.1\gr_lab3_v0.1\sours.h(208): warning C4244: инициализация: преобразование "double" в "float", возможна потеря данных
+d:\nstu\компьютерная графика\lab3\gr_lab3_v0.1\gr_lab3_v0.1\sours.h(224): warning C4018: <: несоответствие типов со знаком и без знака
+d:\nstu\компьютерная графика\lab3\gr_lab3_v0.1\gr_lab3_v0.1\sours.h(259): warning C4244: =: преобразование "double" в "float", возможна потеря данных
+d:\nstu\компьютерная графика\lab3\gr_lab3_v0.1\gr_lab3_v0.1\sours.h(157): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17134.0\ucrt\stdio.h(208): note:  см. объявление "fopen"
+d:\nstu\компьютерная графика\lab3\gr_lab3_v0.1\gr_lab3_v0.1\sours.h(158): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17134.0\ucrt\stdio.h(208): note:  см. объявление "fopen"
+d:\nstu\компьютерная графика\lab3\gr_lab3_v0.1\gr_lab3_v0.1\sours.h(159): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17134.0\ucrt\stdio.h(208): note:  см. объявление "fopen"
+d:\nstu\компьютерная графика\lab3\gr_lab3_v0.1\gr_lab3_v0.1\sours.h(162): warning C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17134.0\ucrt\stdio.h(1197): note:  см. объявление "fscanf"
+d:\nstu\компьютерная графика\lab3\gr_lab3_v0.1\gr_lab3_v0.1\sours.h(163): warning C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17134.0\ucrt\stdio.h(1197): note:  см. объявление "fscanf"
+d:\nstu\компьютерная графика\lab3\gr_lab3_v0.1\gr_lab3_v0.1\sours.h(164): warning C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17134.0\ucrt\stdio.h(1197): note:  см. объявление "fscanf"
+d:\nstu\компьютерная графика\lab3\gr_lab3_v0.1\gr_lab3_v0.1\sours.h(173): warning C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17134.0\ucrt\stdio.h(1197): note:  см. объявление "fscanf"
+d:\nstu\компьютерная графика\lab3\gr_lab3_v0.1\gr_lab3_v0.1\sours.h(180): warning C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17134.0\ucrt\stdio.h(1197): note:  см. объявление "fscanf"
+d:\nstu\компьютерная графика\lab3\gr_lab3_v0.1\gr_lab3_v0.1\sours.h(181): warning C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17134.0\ucrt\stdio.h(1197): note:  см. объявление "fscanf"
+d:\nstu\компьютерная графика\lab3\gr_lab3_v0.1\gr_lab3_v0.1\sours.h(283): warning C4018: <: несоответствие типов со знаком и без знака
+d:\nstu\компьютерная графика\lab3\gr_lab3_v0.1\gr_lab3_v0.1\sours.h(316): warning C4018: <: несоответствие типов со знаком и без знака
+d:\nstu\компьютерная графика\lab3\gr_lab3_v0.1\gr_lab3_v0.1\sours.h(351): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17134.0\ucrt\stdio.h(208): note:  см. объявление "fopen"
+d:\nstu\компьютерная графика\lab3\gr_lab3_v0.1\gr_lab3_v0.1\sours.h(387): warning C4244: инициализация: преобразование "double" в "float", возможна потеря данных
+d:\nstu\компьютерная графика\lab3\gr_lab3_v0.1\gr_lab3_v0.1\sours.h(453): warning C4018: <: несоответствие типов со знаком и без знака
+d:\nstu\компьютерная графика\lab3\gr_lab3_v0.1\gr_lab3_v0.1\sours.h(516): warning C4018: <: несоответствие типов со знаком и без знака
+d:\nstu\компьютерная графика\lab3\gr_lab3_v0.1\gr_lab3_v0.1\sours.h(523): warning C4244: аргумент: преобразование "double" в "GLfloat", возможна потеря данных
+d:\nstu\компьютерная графика\lab3\gr_lab3_v0.1\gr_lab3_v0.1\sours.h(526): warning C4244: аргумент: преобразование "double" в "GLfloat", возможна потеря данных
+d:\nstu\компьютерная графика\lab3\gr_lab3_v0.1\gr_lab3_v0.1\sours.h(529): warning C4244: аргумент: преобразование "double" в "GLfloat", возможна потеря данных
+d:\nstu\компьютерная графика\lab3\gr_lab3_v0.1\gr_lab3_v0.1\sours.h(532): warning C4244: аргумент: преобразование "double" в "GLfloat", возможна потеря данных
+d:\nstu\компьютерная графика\lab3\gr_lab3_v0.1\gr_lab3_v0.1\sours.h(541): warning C4244: аргумент: преобразование "double" в "GLfloat", возможна потеря данных
+d:\nstu\компьютерная графика\lab3\gr_lab3_v0.1\gr_lab3_v0.1\sours.h(544): warning C4244: аргумент: преобразование "double" в "GLfloat", возможна потеря данных
+d:\nstu\компьютерная графика\lab3\gr_lab3_v0.1\gr_lab3_v0.1\sours.h(547): warning C4244: аргумент: преобразование "double" в "GLfloat", возможна потеря данных
+d:\nstu\компьютерная графика\lab3\gr_lab3_v0.1\gr_lab3_v0.1\sours.h(550): warning C4244: аргумент: преобразование "double" в "GLfloat", возможна потеря данных
+d:\nstu\компьютерная графика\lab3\gr_lab3_v0.1\gr_lab3_v0.1\sours.h(559): warning C4244: аргумент: преобразование "double" в "GLfloat", возможна потеря данных
+d:\nstu\компьютерная графика\lab3\gr_lab3_v0.1\gr_lab3_v0.1\sours.h(562): warning C4244: аргумент: преобразование "double" в "GLfloat", возможна потеря данных
+d:\nstu\компьютерная графика\lab3\gr_lab3_v0.1\gr_lab3_v0.1\sours.h(565): warning C4244: аргумент: преобразование "double" в "GLfloat", возможна потеря данных
+d:\nstu\компьютерная графика\lab3\gr_lab3_v0.1\gr_lab3_v0.1\sours.h(568): warning C4244: аргумент: преобразование "double" в "GLfloat", возможна потеря данных
+d:\nstu\компьютерная графика\lab3\gr_lab3_v0.1\gr_lab3_v0.1\sours.h(609): warning C4018: <: несоответствие типов со знаком и без знака
+d:\nstu\компьютерная графика\lab3\gr_lab3_v0.1\gr_lab3_v0.1\sours.h(701): warning C4018: <: несоответствие типов со знаком и без знака
+d:\nstu\компьютерная графика\lab3\gr_lab3_v0.1\gr_lab3_v0.1\sours.h(777): warning C4018: <: несоответствие типов со знаком и без знака
+d:\nstu\компьютерная графика\lab3\gr_lab3_v0.1\gr_lab3_v0.1\sours.h(783): warning C4018: <: несоответствие типов со знаком и без знака
+d:\nstu\компьютерная графика\lab3\gr_lab3_v0.1\gr_lab3_v0.1\sours.h(789): warning C4018: <: несоответствие типов со знаком и без знака
+d:\nstu\компьютерная графика\lab3\gr_lab3_v0.1\gr_lab3_v0.1\sours.h(795): warning C4018: <: несоответствие типов со знаком и без знака
+d:\nstu\компьютерная графика\lab3\gr_lab3_v0.1\gr_lab3_v0.1\sours.h(799): warning C4018: <: несоответствие типов со знаком и без знака
+d:\nstu\компьютерная графика\lab3\gr_lab3_v0.1\gr_lab3_v0.1\sours.h(835): warning C4018: <: несоответствие типов со знаком и без знака
+d:\nstu\компьютерная графика\lab3\gr_lab3_v0.1\gr_lab3_v0.1\sours.h(941): warning C4018: <: несоответствие типов со знаком и без знака
+d:\nstu\компьютерная графика\lab3\gr_lab3_v0.1\gr_lab3_v0.1\sours.h(970): warning C4305: инициализация: усечение из "double" в "GLfloat"
+d:\nstu\компьютерная графика\lab3\gr_lab3_v0.1\gr_lab3_v0.1\sours.h(989): warning C4305: инициализация: усечение из "double" в "GLfloat"
+d:\nstu\компьютерная графика\lab3\gr_lab3_v0.1\gr_lab3_v0.1\sours.h(1000): warning C4305: инициализация: усечение из "double" в "GLfloat"
+d:\nstu\компьютерная графика\lab3\gr_lab3_v0.1\gr_lab3_v0.1\sours.h(1001): warning C4305: инициализация: усечение из "double" в "GLfloat"
+d:\nstu\компьютерная графика\lab3\gr_lab3_v0.1\gr_lab3_v0.1\sours.h(1010): warning C4305: аргумент: усечение из "double" в "GLfloat"
+d:\nstu\компьютерная графика\lab3\gr_lab3_v0.1\gr_lab3_v0.1\sours.h(1011): warning C4305: аргумент: усечение из "double" в "GLfloat"
+d:\nstu\компьютерная графика\lab3\gr_lab3_v0.1\gr_lab3_v0.1\sours.h(1019): warning C4305: инициализация: усечение из "double" в "GLfloat"
+d:\nstu\компьютерная графика\lab3\gr_lab3_v0.1\gr_lab3_v0.1\sours.h(1035): warning C4305: инициализация: усечение из "double" в "GLfloat"
+d:\nstu\компьютерная графика\lab3\gr_lab3_v0.1\gr_lab3_v0.1\sours.h(1118): warning C4305: -=: усечение из "double" в "float"
+d:\nstu\компьютерная графика\lab3\gr_lab3_v0.1\gr_lab3_v0.1\sours.h(1126): warning C4305: +=: усечение из "double" в "float"
+d:\nstu\компьютерная графика\lab3\gr_lab3_v0.1\gr_lab3_v0.1\sours.h(1209): warning C4305: +=: усечение из "double" в "float"
+d:\nstu\компьютерная графика\lab3\gr_lab3_v0.1\gr_lab3_v0.1\sours.h(1213): warning C4305: -=: усечение из "double" в "float"
+  GR_lab3_v0.1.vcxproj -> D:\NSTU\Компьютерная графика\lab3\GR_lab3_v0.1\Debug\GR_lab3_v0.1.exe
